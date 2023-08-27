@@ -7,4 +7,4 @@ This project uses genetic algorithms to solve the traveling salesman problem (TS
 
 !["image"](./best sol2.jpg)
 
-<img src= "./best sol2.jpg"/>
+<img width="50%" src= "./best sol2.jpg"/>
